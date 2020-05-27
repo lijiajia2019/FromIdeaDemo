@@ -22,6 +22,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("故人是谁？" +
                 "姑苏林黛玉");
-        //
+        System.out.println("模拟同学二做出的修改");
     }
 }
